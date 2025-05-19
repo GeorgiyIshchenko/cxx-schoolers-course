@@ -1,3 +1,7 @@
+# ide files
+.vscode
+.idea
+
 # Prerequisites
 *.d
 
